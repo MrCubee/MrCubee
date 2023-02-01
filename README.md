@@ -1,7 +1,5 @@
 <img align="left" alt="Language Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MrCubee&show_icons=true&theme=dark" />
 
-<img align="left" alt="Test" src="https://eliott.belinguier.fr/"/>
-
 Hey it's MrCubee ! I've been a developer since around 2010, I mainly develop in Java, C, C++, but I also do JavaScript, C#, ASM X86_64, Lua, PHP.
 
 
